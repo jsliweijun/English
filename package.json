@@ -1,0 +1,27 @@
+{
+    "name": "english",
+    "version": "1.0.0",
+    "description": "English",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs",
+        "deploy": "sh deploy.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jsliweijun/English/issues"
+    },
+    "homepage": "https://jsliweijun.github.io/English/",
+    "devDependencies": {
+        "vuepress": "^1.9.7"
+    }
+}
