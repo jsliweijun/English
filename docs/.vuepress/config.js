@@ -30,7 +30,7 @@ module.exports = {
         // 左侧菜单栏配置
         sidebar: {
             '/c00-prepare/': [''],
-            '/c01-newConceptEnglish-1/': ['', 's01-1-2'],
+            '/c01-newConceptEnglish-1/': ['', 's01'],
             '/c05-grammar/': ['']
         }
     }
